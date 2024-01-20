@@ -158,11 +158,11 @@ Technologies / Tools Used
 • Microsoft Visual Studio
 
 URLs
-video URL: https://youtu.be/0SCo5mqUe_0?si=Pn9zqpFcK_TyCt0p
+video URL: https://drive.google.com/file/d/1d2hBmWOOX4hd47ylJeLFx8F3kBj3vZDs/view?usp=drivesdk
 
-PDF File With ScreenShoots and explanation about project: https://drive.google.com/file/d/1b50UaEZsLV9OGHwJNOIY6ty4INvNC-dQ/view?usp=drivesdk
+PDF File With ScreenShoots and explanation about project: https://drive.google.com/file/d/1Q4DcJQNnXxj0ROP3r9mUqnBHeavac-2e/view?usp=drivesdk
 
-working project URL: https://fayazahmed5101.github.io/Villa-agency/
+working project URL: 
 
 Azure Account ID: fayaz05012001@gmail.com
 
