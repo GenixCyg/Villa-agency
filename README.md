@@ -162,7 +162,8 @@ video URL: https://drive.google.com/file/d/1d2hBmWOOX4hd47ylJeLFx8F3kBj3vZDs/vie
 
 PDF File With ScreenShoots and explanation about project: https://drive.google.com/file/d/1Q4DcJQNnXxj0ROP3r9mUqnBHeavac-2e/view?usp=drivesdk
 
-working project URL: [https://github.com/amolN1/Villa-agency.git](https://fayazahmed5101.github.io/Villa-agency/)
+working project URL: [https://github.com/amolN1/Villa-agency.git]
+[https://fayazahmed5101.github.io/Villa-agency/]
 
 Azure Account ID: fayaz05012001@gmail.com
 
